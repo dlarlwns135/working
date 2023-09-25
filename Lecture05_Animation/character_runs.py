@@ -17,7 +17,6 @@ for x in range(0, 800, 10):
     frame = (frame + 1) % 8
     delay(0.05)
 
-for y in range(800,0,-10):
 
 
 
